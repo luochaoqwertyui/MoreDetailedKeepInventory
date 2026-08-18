@@ -37,10 +37,10 @@
 
 ## 下载
 
-从 [GitHub Releases](https://github.com/Lesungend/more-detailed-keep-inventory/releases) 下载最新版本，或自行构建：
+从 [GitHub Releases](https://github.com/luochaoqwertyui/MoreDetailedKeepInventory/releases) 下载最新版本，或自行构建：
 
 ```bash
-git clone https://github.com/Lesungend/more-detailed-keep-inventory.git
+git clone https://github.com/luochaoqwertyui/MoreDetailedKeepInventory
 cd more-detailed-keep-inventory
 ./gradlew build
 ```
