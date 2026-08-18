@@ -1,0 +1,6 @@
+{
+	"commands.keepInventory.add.success": "已将 %s 名玩家添加到死亡不掉落列表。",
+	"commands.keepInventory.remove.success": "已将 %s 名玩家从死亡不掉落列表中移除。",
+	"commands.keepInventory.list.header": "已启用死亡不掉落的玩家（共 %s 人）：",
+	"commands.keepInventory.list.empty": "死亡不掉落列表中没有玩家。"
+}

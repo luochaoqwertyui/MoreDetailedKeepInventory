@@ -1,0 +1,6 @@
+{
+	"commands.keepInventory.add.success": "Added %s player(s) to the keepInventory list.",
+	"commands.keepInventory.remove.success": "Removed %s player(s) from the keepInventory list.",
+	"commands.keepInventory.list.header": "Players with keepInventory enabled (%s):",
+	"commands.keepInventory.list.empty": "No players are currently in the keepInventory list."
+}
