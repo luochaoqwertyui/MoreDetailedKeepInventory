@@ -35,6 +35,18 @@
 - Fabric API
 - Java **>= 25**
 
+## 下载
+
+从 [GitHub Releases](https://github.com/Lesungend/more-detailed-keep-inventory/releases) 下载最新版本，或自行构建：
+
+```bash
+git clone https://github.com/Lesungend/more-detailed-keep-inventory.git
+cd more-detailed-keep-inventory
+./gradlew build
+```
+
+构建产物位于 `build/libs/more-detailed-keep-inventory-0.0.1.jar`。
+
 ## 安装方法
 
 1. 安装 [Fabric Loader](https://fabricmc.net/use/)

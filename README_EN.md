@@ -35,6 +35,18 @@ Examples:
 - Fabric API
 - Java **>= 25**
 
+## Download
+
+Download the latest version from [GitHub Releases](https://github.com/Lesungend/more-detailed-keep-inventory/releases), or build from source:
+
+```bash
+git clone https://github.com/Lesungend/more-detailed-keep-inventory.git
+cd more-detailed-keep-inventory
+./gradlew build
+```
+
+The built JAR is located at `build/libs/more-detailed-keep-inventory-0.0.1.jar`.
+
 ## Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
