@@ -60,4 +60,4 @@ cd more-detailed-keep-inventory
 
 ## 许可证
 
-CC0-1.0
+MIT License — 需保留原作者署名

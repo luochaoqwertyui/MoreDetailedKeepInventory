@@ -60,4 +60,4 @@ Player data is stored in the `more-detailed-keep-inventory.json` file in the gam
 
 ## License
 
-CC0-1.0
+MIT License — Attribution required
